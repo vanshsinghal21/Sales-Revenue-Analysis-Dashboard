@@ -37,7 +37,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Dashboard](YOUR_IMAGE_URL)
+![Dashboard](https://raw.githubusercontent.com/vanshsinghal21/Sales-Revenue-Analysis-Dashboard/refs/heads/main/Sales-Revenue-Data-Analysis.png)
 
 ## Outcome
 
