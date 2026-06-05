@@ -37,7 +37,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard](YOUR_IMAGE_URL))
 
 ## Outcome
 
